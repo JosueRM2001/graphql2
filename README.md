@@ -56,7 +56,7 @@ Luego ejecuta el siguiente comando, que genera el contenedor y el puerto.
 
 ```bash
 
-docker run -d -p 8080:80 --name apirest erickjrm/programgraphql:latest
+docker run -d -p 8080:80 --name graphql erickjrm/programgraphql:latest
 ```
 
 **Paso #4**
